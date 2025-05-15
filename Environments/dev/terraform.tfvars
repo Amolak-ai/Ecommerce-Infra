@@ -1,0 +1,5 @@
+rg_name                  = "dev-ecommerce-rg01"
+rg_location              = "westus"
+stg_name                 = "devstg0102"
+account_tier             = "Standard"
+account_replication_type = "LRS"
